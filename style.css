@@ -1,0 +1,34 @@
+.row1{
+ width: auto;
+ height: 300px;   
+ border: 1px;
+ border-color:gray;
+ border-style: solid;
+ display: flex;
+}
+
+.cube1{
+    width: 100px;
+    height: 50px;
+    background-color: cornflowerblue;
+    justify-content: center;
+    align-items: center; 
+    margin: auto;
+}
+
+.row2{
+    width:auto;
+    height: 300px;
+    border: 1px;
+    border-color: darkgray;
+    border-style: solid;
+}
+
+.cube2{
+    margin: auto;
+    width: 100px;
+    text-align: center;
+    line-height: 300px;
+    color: dimgray;
+    font-size: 12px;
+}
